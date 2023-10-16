@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# What the Project Looks like:
+![chrome_QEn6IVuvIn](https://github.com/JustJakee/kata_interview_example/assets/45543899/74926ebc-778d-42a0-98c3-c4cf50928612)
+
+# How to Run Locally: `npm start`
+
+---
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
